@@ -1,5 +1,5 @@
 {
-    "name": "samochód",
+    "name": "samochód zdalnie sterowany",
     "description": "",
     "dependencies": {
         "core": "*",

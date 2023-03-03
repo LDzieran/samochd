@@ -2,7 +2,7 @@ radio.onReceivedNumber(function (receivedNumber) {
     I = receivedNumber
 })
 let I = 0
-radio.setGroup(0)
+radio.setGroup(20)
 wuKong.mecanumWheel(
 wuKong.ServoList.S1,
 wuKong.ServoList.S2,
